@@ -1,0 +1,14 @@
+C:\Users\rmacphee\source\repos\PokeAppMVC\PokeAppMVC\obj\Debug\netcoreapp2.2\PokeAppMVC.csprojAssemblyReference.cache
+C:\Users\rmacphee\source\repos\PokeAppMVC\PokeAppMVC\obj\Debug\netcoreapp2.2\PokeAppMVC.csproj.CoreCompileInputs.cache
+C:\Users\rmacphee\source\repos\PokeAppMVC\PokeAppMVC\obj\Debug\netcoreapp2.2\PokeAppMVC.RazorAssemblyInfo.cache
+C:\Users\rmacphee\source\repos\PokeAppMVC\PokeAppMVC\obj\Debug\netcoreapp2.2\PokeAppMVC.RazorAssemblyInfo.cs
+C:\Users\rmacphee\source\repos\PokeAppMVC\PokeAppMVC\obj\Debug\netcoreapp2.2\PokeAppMVC.AssemblyInfoInputs.cache
+C:\Users\rmacphee\source\repos\PokeAppMVC\PokeAppMVC\obj\Debug\netcoreapp2.2\PokeAppMVC.AssemblyInfo.cs
+C:\Users\rmacphee\source\repos\PokeAppMVC\PokeAppMVC\bin\Debug\netcoreapp2.2\PokeAppMVC.deps.json
+C:\Users\rmacphee\source\repos\PokeAppMVC\PokeAppMVC\bin\Debug\netcoreapp2.2\PokeAppMVC.runtimeconfig.json
+C:\Users\rmacphee\source\repos\PokeAppMVC\PokeAppMVC\bin\Debug\netcoreapp2.2\PokeAppMVC.runtimeconfig.dev.json
+C:\Users\rmacphee\source\repos\PokeAppMVC\PokeAppMVC\bin\Debug\netcoreapp2.2\PokeAppMVC.dll
+C:\Users\rmacphee\source\repos\PokeAppMVC\PokeAppMVC\bin\Debug\netcoreapp2.2\PokeAppMVC.pdb
+C:\Users\rmacphee\source\repos\PokeAppMVC\PokeAppMVC\obj\Debug\netcoreapp2.2\PokeAppMVC.RazorTargetAssemblyInfo.cache
+C:\Users\rmacphee\source\repos\PokeAppMVC\PokeAppMVC\obj\Debug\netcoreapp2.2\PokeAppMVC.dll
+C:\Users\rmacphee\source\repos\PokeAppMVC\PokeAppMVC\obj\Debug\netcoreapp2.2\PokeAppMVC.pdb
