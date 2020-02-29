@@ -3,7 +3,7 @@ phases:
   pre_build:
     commands:
       - echo Restore started on `date`
-      - dotnet restore PokeAppMVC\PokeAppMVC\PokeAppMVC.csproj
+      - dotnet restore ./PokeAppMVC/PokeAppMVC/PokeAppMVC.csproj
   build:
     commands:
       - echo Build started on `date`
