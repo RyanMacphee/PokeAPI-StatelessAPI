@@ -11,5 +11,4 @@ phases:
 artifacts:
   files:
     - appspec.yml
-    - PokeAppMVC.exe
-    - scripts/*
+    - PokeApi-StatelessAPI/build_output/**/*
