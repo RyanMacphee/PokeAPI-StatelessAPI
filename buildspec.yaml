@@ -11,5 +11,3 @@ phases:
 artifacts:
   files:
     - PokeAPI-StatlessAPI/build_output/**/*
-    - scripts/**/*
-    - appspec.yml
