@@ -10,4 +10,4 @@ phases:
       - dotnet publish -c release -o ./build_output PokeAppMVC/PokeAppMVC/PokeAppMVC.csproj
 artifacts:
   files:
-    - PokeAPI-StatlessAPI/build_output/**/*
+    - PokeAPI-StatlessAPI
