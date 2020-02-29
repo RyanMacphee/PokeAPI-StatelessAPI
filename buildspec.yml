@@ -11,4 +11,4 @@ phases:
 artifacts:
   files:
     - appspec.yml
-    - codebuild/output/src066163516/src/github.com/RyanMacphee/PokeAPI-StatelessAPI/PokeAppMVC/PokeAppMVC/PokeAppMVC.csproj.
+    - Pokeapptest/codebuild/output/src066163516/src/github.com/RyanMacphee/PokeAPI-StatelessAPI/PokeAppMVC/PokeAppMVC/PokeAppMVC.csproj.
