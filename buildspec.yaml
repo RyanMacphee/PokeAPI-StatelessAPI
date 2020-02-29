@@ -7,9 +7,9 @@ phases:
   build:
     commands:
       - echo Build started on `date`
-      - dotnet publish -c release -o ./ PokeAppMVC/PokeAppMVC/PokeAppMVC.csproj
+      - dotnet publish -c release -o ./build_output PokeAppMVC/PokeAppMVC/PokeAppMVC.csproj
 artifacts:
   files:
-    - PokeAppMVC/build_output/**/*
+    - PokeAPI-StatlessAPI/build_output/**/*
     - scripts/**/*
     - appspec.yml
