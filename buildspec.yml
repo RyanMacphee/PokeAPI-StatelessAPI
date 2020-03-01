@@ -10,5 +10,5 @@ phases:
       - dotnet publish -c release -o PokeAppMVC/PokeAppMVC/PokeAppMVC.csproj
 artifacts:
   files:
-    - /**/*
+    - PokeAppMVC/**/*
     - appspec.yml
