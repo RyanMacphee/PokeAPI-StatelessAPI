@@ -11,4 +11,4 @@ phases:
 artifacts:
   files:
     - PokeAppMVC/**/*
-    - appspec.yml
+    - appspec.yaml
