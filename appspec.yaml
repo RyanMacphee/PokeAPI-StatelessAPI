@@ -4,10 +4,10 @@ Resources:
   - PokeAPI: 
       Type: AWS::Lambda::Function
       Properties:
-        Name: "PokeAPI" 
-        Alias: "PokeAPI" 
-        CurrentVersion: "1.0" 
-        TargetVersion: "1.0" 
+        Name: PokeAPI
+        Alias: PokeAPI 
+        CurrentVersion: 1.0
+        TargetVersion: 1.0 
 
 Hooks:
     - AfterAllowTraffic: "" 
