@@ -7,7 +7,7 @@ phases:
   build:
     commands:
       - echo Build started on `date`
-      - dotnet publish -c release -o ./build_output PokeAppMVC/PokeAppMVC/PokeAppMVC.csproj
+      - dotnet publish -c release -o PokeAppMVC/PokeAppMVC/PokeAppMVC.csproj
 artifacts:
   files:
     - codebuild/output/src885443480/src/github.com/RyanMacphee/PokeAPI-StatelessAPI/PokeAppMVC/PokeAppMVC/PokeAppMVC.csproj
