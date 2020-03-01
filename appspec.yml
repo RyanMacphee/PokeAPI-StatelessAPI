@@ -1,7 +1,8 @@
+
 version: 0.0
 os: linux
 files:
-  - source: CodeBuild-SampleCore/build_output
+  - source: PokeAppMVC
     destination: /home/ec2-user/aspnetcoreapp
   - source: scripts/virtualhost.conf
     destination: /home/ec2-user/aspnetcoreapp
