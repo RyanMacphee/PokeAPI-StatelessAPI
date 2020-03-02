@@ -4,8 +4,8 @@ Resources:
   - PokeAPIFunction: 
       Type: AWS::Lambda::Function
       Properties:
-        Name: PokeAPIFunction
-        Alias: PokeAPIAlias
+        Name: "PokeAPIFunction"
+        Alias: "PokeAPIAlias"
         CurrentVersion: $LATEST
         TargetVersion: $LATEST
 
