@@ -6,5 +6,5 @@ Resources:
       Properties:
         Name: "PokeAPIFunction"
         Alias: "PokeAPIAlias"
-        CurrentVersion: $LATEST
-        TargetVersion: $LATEST
+        CurrentVersion: "$LATEST"
+        TargetVersion: "$LATEST"
