@@ -1,4 +1,4 @@
-version: 1.0
+version: 0.0
 
 Resources:
   - PokeAPI: 
@@ -6,8 +6,8 @@ Resources:
       Properties:
         Name: PokeAPI
         Alias: PokeAPI 
-        CurrentVersion: 1.0
-        TargetVersion: 1.0 
+        CurrentVersion: 0.0
+        TargetVersion: 0.0 
 
 Hooks:
     - AfterAllowTraffic: "" 
